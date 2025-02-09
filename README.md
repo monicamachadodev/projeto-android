@@ -35,3 +35,40 @@ projeto-android/
 ├── style.css         # Estilos principais
 ├── index.html        # Página inicial
 └── README.md         # Documentação
+```
+## 🎯 Objetivos de Aprendizado
+Este projeto foi desenvolvido para praticar:
+
+- Técnicas de posicionamento com CSS
+
+- Gerenciamento de versões com Git
+
+- Organização de código limpo
+
+- Implementação de design responsivo
+
+- Boas práticas de SEO básico
+
+## 🚀 Como Executar Localmente
+1. Clone o repositório:
+
+```bash
+Copy
+git clone https://github.com/monicamachadodev/projeto-android.git
+```
+2. Abra o arquivo principal:
+
+```bash
+Copy
+cd projeto-android && start index.html
+```
+
+## 📌 Lições Aprendidas
+- Mobile-first: Desafios na adaptação de imagens para diferentes resoluções
+
+- Versionamento: Organização de commits semânticos
+
+- Otimização: Compressão de imagens sem perda de qualidade
+
+- Cross-browser: Testes de compatibilidade entre navegadores
+
