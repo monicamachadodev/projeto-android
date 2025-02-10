@@ -8,7 +8,7 @@ Um site informativo sobre a história e evolução do sistema operacional Androi
 
 [**Acesse o projeto online**](https://monicamachadodev.github.io/projeto-android/) 🌐
 
-
+<img src="">
 
 ## 🛠️ Funcionalidades Técnicas
 
