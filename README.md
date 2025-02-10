@@ -6,9 +6,10 @@
 
 Um site informativo sobre a história e evolução do sistema operacional Android, desenvolvido como projeto de estudos em HTML e CSS.
 
-[**Acesse o projeto online**](https://monicamachadodev.github.io/projeto-android/) 🌐
+[![**Acesse o projeto online**](https://github.com/monicamachadodev/projeto-android/blob/main/imagens/site-historia-android.png)](https://monicamachadodev.github.io/projeto-android/)
 
-<img src="">
+
+
 
 ## 🛠️ Funcionalidades Técnicas
 
