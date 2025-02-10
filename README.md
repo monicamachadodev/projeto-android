@@ -8,6 +8,8 @@ Um site informativo sobre a história e evolução do sistema operacional Androi
 
 [**Acesse o projeto online**](https://monicamachadodev.github.io/projeto-android/) 🌐
 
+![Preview do Projeto](https://raw.githubusercontent.com/monicamachadodev/projeto-cordel/main/imagens/site-projeto-android.jpg)  
+
 ## 🛠️ Funcionalidades Técnicas
 
 - **Layout Responsivo**: Adaptação para diferentes tamanhos de tela
