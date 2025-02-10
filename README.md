@@ -1,3 +1,4 @@
+
 # 📱 História do Android 
 
 [![GitHub license](https://img.shields.io/github/license/monicamachadodev/projeto-android)](https://github.com/monicamachadodev/projeto-android/blob/main/LICENSE)
@@ -6,10 +7,9 @@
 
 Um site informativo sobre a história e evolução do sistema operacional Android, desenvolvido como projeto de estudos em HTML e CSS.
 
+Clique na imagem:
+
 [![**Acesse o projeto online**](https://github.com/monicamachadodev/projeto-android/blob/main/imagens/site-historia-android.png)](https://monicamachadodev.github.io/projeto-android/)
-
-
-
 
 ## 🛠️ Funcionalidades Técnicas
 
